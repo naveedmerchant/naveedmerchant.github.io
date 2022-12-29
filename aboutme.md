@@ -13,6 +13,7 @@ My doctoral research as a PhD student involved creating a new two-sample Bayesia
 I've worked for a variety of companies. I worked as a contractor data scientist for Climate Corportation under Colaberry, a statistician for MAXIS-IT, and was a Research Assistant for General Motors under Texas A&M University. I have experience in dealing with large data (too big to store), spatial data, real time data, and high dimensional data (many variables but few outcomes). 
 
 Here's a table of my skillset:
+
 | Skill | Comfort Level |
 | --- | ----------- |
 | **_Coding Languages_** | --- |
