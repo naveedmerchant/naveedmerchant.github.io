@@ -10,4 +10,4 @@ title: Publications
 - [COVID-19 predictions](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0250110): Zhao, Hongwei, Naveed N. Merchant, Alyssa McNulty, Tiffany A. Radcliff, Murray J. Cote, Rebecca SB Fischer, Huiyan Sang, and Marcia G. Ory. "COVID-19: Short term prediction model using daily incidence data." PloS one 16, no. 4 (2021): e0250110.
 
 ## Presentations
-- Use of Cross-validation Bayes Factors to Test Quality of Two Densities | _2021 World Meeting of the International Society for Bayesian Analysis._
+- Use of Cross-validation Bayes Factors to Test Quality of Two Densities, _2021 World Meeting of the International Society for Bayesian Analysis._
