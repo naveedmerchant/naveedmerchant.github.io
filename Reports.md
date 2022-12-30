@@ -23,7 +23,7 @@ The report is a group submission that looks to examine taxi-cab transaction data
 
 ![image](assets/img/suburban_tax_ex.png)
 
-The full report can be seen [here](https://drive.google.com/file/d/15khGImJMCg39mtY4rD0FICWweMz07zx7/view?usp=share_link).
+The full report can be seen [here](https://drive.google.com/file/d/15khGImJMCg39mtY4rD0FICWweMz07zx7/view?usp=share_link). It's best to have it opened in Adobe Acrobat to view the embedded videos.
 
 # Report on treatment effect of different fungicides
 
@@ -31,4 +31,4 @@ This is a report we curated while doing work under for the consulting center. Th
 
 ![image](assets/img/metric_stressor_effect_ex.png)
 
-A full copy of the report can be found [here]().
+A full copy of the report can be found [here](https://github.com/naveedmerchant/naveedmerchant.github.io/blob/master/EndophytesReportFinal.pdf).
