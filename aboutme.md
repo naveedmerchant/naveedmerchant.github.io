@@ -37,4 +37,4 @@ Here's a table of my skillset:
 
 
 
-Thanks for coming to my website. I hope to make your acquaintance.
+Thanks for coming to my website. Lets Connect!
