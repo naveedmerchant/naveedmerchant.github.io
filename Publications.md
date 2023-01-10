@@ -4,7 +4,7 @@ title: Publications
 ---
 
 ## Papers
-- [ALB Variable Screening](https://arxiv.org/pdf/2301.02283.pdf): Naveed Merchant and Hart Jeffery. "Use of Cross-validation Bayes Factors to Test Equality of Two Densities." arXiv preprint arXiv:2301.02283 (2023).
+- [ALB Variable Screening](https://arxiv.org/pdf/2301.02283.pdf): Merchant N, Hart JD. Screening Methods for Classification Based on Non-parametric Bayesian Tests. arXiv preprint arXiv:2301.02283. 2023 Jan 5.
 
 - [CVBF](https://arxiv.org/pdf/2003.06368.pdf): Hart, Jeffery, Taeryon Choi, and Naveed Merchant. "Use of Cross-validation Bayes Factors to Test Equality of Two Densities." arXiv preprint arXiv:2003.06368 (2020).
 
